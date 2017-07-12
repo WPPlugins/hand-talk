@@ -1,0 +1,27 @@
+#icon-wpht {
+	background-image: url("../images/icon.png")
+}
+.handtalk {
+	position: relative;
+}
+.handtalk p {
+	padding: 0 10px;
+}
+.handtalk p.description {
+	padding: 0;
+}
+
+.handtalk .form-table th {
+	width: 150px;
+}
+.handtalk .settings img {
+	position: absolute;
+	left: 555px;
+	top: 70px;
+}
+
+.handtalk .settings table {
+	float: left;
+	width: 550px;
+	margin: 0 10px;
+}
